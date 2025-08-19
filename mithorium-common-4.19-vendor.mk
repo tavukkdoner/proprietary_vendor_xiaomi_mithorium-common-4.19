@@ -356,7 +356,6 @@ PRODUCT_PACKAGES += \
     DynamicDDSService \
     NetworkSetting \
     QtiTelephonyService \
-    atfwd \
     embms \
     imssettings \
     uimlpaservice \
