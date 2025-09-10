@@ -591,6 +591,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     CneApp \
-    IWlanService \
-    wcnss_service-mithorium
+    IWlanService
 endif
