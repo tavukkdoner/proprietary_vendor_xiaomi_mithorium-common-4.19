@@ -66,3 +66,5 @@ gettid: 1
 
 # added after manual check
 setpriority: 1
+
+lseek: 1
